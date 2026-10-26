@@ -10,6 +10,8 @@ The system turns intentional eye blinks into accessible menu selections and
 spoken communication. It combines local computer vision, personalized
 calibration, adaptive interaction, and an emergency-notification boundary
 designed for future cloud deployment.
+<img width="917" height="362" alt="image" src="https://github.com/user-attachments/assets/b4e04493-cd50-47a4-8a2e-7af97db39bd9" />
+
 
 ## The Problem
 
