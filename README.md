@@ -256,7 +256,3 @@ TalkinEyes OS is intended to assist communication, not replace clinical
 assessment or professional assistive-technology guidance. Any deployment in a
 care environment should include user testing, caregiver feedback, privacy
 review, and an independent emergency-communication fallback.
-
-## License
-
-See [LICENSE](./LICENSE) for the terms governing this project.
