@@ -188,11 +188,8 @@ TalkinEyes/
 ├── cloud/             # Cloud notification boundaries
 ├── communication/     # Text-to-speech and priority communication
 ├── core/              # Camera, landmarks, EAR, blinks, and head pose
-├── experimental/      # Isolated research experiments
 ├── intelligence/      # History and predictive ranking
 ├── interaction/       # Scanning and interaction state boundaries
-├── optimization/      # Future benchmarks and model optimization
-├── tests/              # Automated test boundaries
 ├── ui/                 # Tkinter presentation components
 ├── main.py            # Application composition entry point
 └── requirements.txt   # Python dependencies
