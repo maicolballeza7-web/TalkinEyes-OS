@@ -1,0 +1,7 @@
+# Phase 1 - Vision Core
+# MediaPipe depends on the contrib distribution; using only this package
+# avoids a cv2 collision with opencv-python.
+opencv-contrib-python==5.0.0.93
+mediapipe==0.10.21
+# MediaPipe 0.10.21 requires NumPy < 2.
+numpy==1.26.4

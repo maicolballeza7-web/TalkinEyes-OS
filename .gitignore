@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Tooling and local configuration
+.pytest_cache/
+.mypy_cache/
+.coverage
+coverage.xml
+.vscode/*
+!.vscode/settings.json
+
+# Build and distribution artifacts
+build/
+dist/
+*.egg-info/
+
+# Local environment files
+.env
+.env.*
